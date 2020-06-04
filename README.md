@@ -12,7 +12,7 @@ overview
 
 
 
-in this project , spreadsheet was converted as api by using online tools .then connect this api to our chatbot overview dialogue flow 
+in this project , spreadsheet was converted as api by using online tools .then connect this api to our chatbot dialogue flow 
 
 Google spreadsheet :
 https://docs.google.com/spreadsheets/d/1MSDS-aAImFKpGqZGiHAM6op7qGTXd4a7o2gNVQfAUHY/edit?usp=drivesdk
